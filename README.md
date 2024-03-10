@@ -9,7 +9,7 @@ This is my first solution to the [Social Links Profile page challenge on Fronten
 
 ## 🎥 Live WebSite
 
-- Live Site URL: [Add live site URL here](https://alexandru-ghergu.github.io/social-links-profile-main/)
+- [Live site URL](https://alexandru-ghergu.github.io/social-links-profile-main/)
 
 ## 🪄 Technologies
 
